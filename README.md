@@ -8,3 +8,5 @@ Just for few test
 >git config --global credential.helper osxkeychain // to delete/udpate username/Password
 
 >git push -u origin NewBranch // to push newly created local branch to remote repository
+
+>git checkout -b NewBranch 24e272cd7
